@@ -39,7 +39,7 @@
   "homepage": "https://github.com/webinstall/webi-installers#readme",
   "dependencies": {
     "dotenv": "^16.4.7",
-    "marked": "^15.0.4"
+    "marked": "^15.0.12"
   },
   "devDependencies": {
     "@types/node": "^22.10.2"
